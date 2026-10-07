@@ -8,15 +8,6 @@ Built as part of the **SWYNEX Technologies** data analytics program (Task 1: Dat
 
 ---
 
-## Project Documents
-
-| Item | Link |
-|---|---|
-| Final case study (PDF) | [docs/Final_Data_Analytics_Case_Study.pdf](docs/Final_Data_Analytics_Case_Study.pdf) |
-| Power BI dashboard file | [powerbi/SWYNEX_Hospital_Advisory_Dashboard.pbix](powerbi/SWYNEX_Hospital_Advisory_Dashboard.pbix)
-
----
-
 ## Business Problem
 
 Hospital management needs to plan staff, beds, emergency capacity and revenue months in advance. This project analyses 54,966 patient records to find:
